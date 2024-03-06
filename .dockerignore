@@ -1,0 +1,5 @@
+auth-service/
+frontend-service/
+task-service/
+user-microservice/
+docker-compose.yml
